@@ -14,8 +14,8 @@ ping: true
 - 个人文件跨设备同步：`Onedrive`
 
 ### 科研
-- 文献管理库：[Zotero](/posts/zotero/)
-- 笔记管理工具：[Obsidian](/posts/obsidian/)
+- 文献管理库：[Zotero](./2025-03-17-zotero.md)
+- 笔记管理工具：[Obsidian](./2025-02-09-obsidian.md)
     - `Obsidian`必备插件：`zotlit插件`（与`Zotero`协作）
 - 画图：`Visio`
 - 版本管理：`Git`
