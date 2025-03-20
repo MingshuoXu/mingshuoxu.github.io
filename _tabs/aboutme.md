@@ -4,9 +4,19 @@ icon: fas fa-user
 order: 5
 ---
 
-![Desktop View](/assets/img/avatar.jpeg){: width="200" height="300" .w-80 .right}
+![Desktop View](/assets/common_img/avatar.jpeg){: width="200" height="300" .w-80 .right}
 
 Here is **Mingshuo Xu / 许明烁**, or you can call me Shawn. Current I am a Ph.D. student at the University of Leicester.
+
+---
+
+## Research Interests
+
+- Bio-inspired and bio-plausible neural systems
+- Small target motion detector (STMD)
+- Insect-sized robot
+
+---
 
 ## Education
 
@@ -26,11 +36,7 @@ Here is **Mingshuo Xu / 许明烁**, or you can call me Shawn. Current I am a Ph
 
 ---
 
-## Research Interests
 
-- Bio-inspired and bio-plausible neural systems
-- Small target motion detector (STMD)
-- Insect-sized robot
 
 
 

@@ -1,10 +1,11 @@
 ---
-title: 工具分享
-date: 2025-02-07 13.08 +0000
-last_modified_at: 2025-02-07 13.08 +0000
-tags: [tool]
+title: 个人工具分享
+date: 2025-02-07
+last_modified_at: 2025-03-19
+categories: [tool]
+tags: []
 toc:  true
-ping: true
+pin: true
 ---
 
 前言：起初写博客的目的是我有一些个人配置软件的习惯，然后想用知识库的方式记录下来，在自己配置新的工作环境的时候可以很快复现。后来发现很多工具对朋友们都很有用，秉承着独乐乐不如众乐乐的精神，开始尝试与朋友们分享我使用的软件，以及工作流等内容。
@@ -14,8 +15,8 @@ ping: true
 - 个人文件跨设备同步：`Onedrive`
 
 ### 科研
-- 文献管理库：[Zotero](./2025-03-17-zotero.md)
-- 笔记管理工具：[Obsidian](./2025-02-09-obsidian.md)
+- 文献管理库：[Zotero]({% post_url 2025-03-17-zotero %})
+- 笔记管理工具：[Obsidian]({% post_url 2025-02-09-obsidian %})
     - `Obsidian`必备插件：`zotlit插件`（与`Zotero`协作）
 - 画图：`Visio`
 - 版本管理：`Git`
