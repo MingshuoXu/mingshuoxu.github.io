@@ -28,7 +28,7 @@ Here is **Mingshuo Xu / 许明烁**, or you can call me Shawn. Current I am a Ph
 - Sep, 2020 to July, 2024: MSc, School of Mathematics and Information Science, Guangzhou University, China
     - Supervisor: Prof [Jigen Peng](https://maths.gzhu.edu.cn/info/1263/5251.htm), and Dr. [Hongxin Wang](https://sites.google.com/view/hongxinwang-personalsite/home).
     - Thesis: Visual Neural System of Insect’s Small Target Motion Detector with Memory Lamina Structure
-    - Research group: [Machine Life and Intelligence Research Center](), Gaungzhou University
+    - Research group: [Machine Life and Intelligence Research Center](https://mlai.gzhu.edu.cn), Gaungzhou University
 <br>
 - Sep, 2016 to July, 2020: BSc, School of Mathematics and Information Science, Guangzhou University, China
 
