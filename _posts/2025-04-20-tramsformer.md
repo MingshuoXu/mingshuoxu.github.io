@@ -2,7 +2,7 @@
 title: Transformer - Attention is All you Need 
 date: 2025-04-20
 last_modified_at: 2025-04-21
-categories: [Paper Reading]
+categories: [research, paper reading]
 tags: [transformer, encoder-decoder]
 toc:  true
 ---
