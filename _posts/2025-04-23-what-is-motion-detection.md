@@ -1,6 +1,6 @@
 ---
 title: 运动目标和目标运动有什么异同？
-date: 2029-04-23 23:44 +0000
+date: 20259-04-23 23:44 +0000
 last_modified_at: 2025-04-23 23:54 +0000
 categories: [research, discussion]
 tags: [discussion]
