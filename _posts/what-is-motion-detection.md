@@ -1,7 +1,7 @@
 ---
 title: 运动目标和目标运动有什么异同？
-date: 20259-04-23 23:44 +0000
-last_modified_at: 2025-04-23 23:54 +0000
+date: 
+last_modified_at: 
 categories: [research, discussion]
 tags: [discussion]
 toc:  true
@@ -19,6 +19,10 @@ toc:  true
 - 运动检测：检测视野中运动发生的位置以及性质（平移，迫近，远离，旋转）
 - 运动分析：
 - 运动追踪：
+
+
+---
+
 
 ---
 
