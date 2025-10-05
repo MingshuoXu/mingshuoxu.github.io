@@ -28,3 +28,6 @@ assets/js/dist
 
 # draft
 draft_*
+
+# local env files
+local_launch.sh
