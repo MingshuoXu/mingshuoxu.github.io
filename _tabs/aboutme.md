@@ -24,7 +24,7 @@ Here is **Mingshuo Xu / 许明烁**, or you can call me Shawn. Current I am a Ph
     - Supervisor: Prof [Shigang Yue](https://le.ac.uk/people/shigang-yue), and Dr. [Daniel Zhou Hao](https://le.ac.uk/people/daniel-hao).
     - Research topic: Bio-inspired visual neural networks and applications.
     - Research group: 
-        - [Trustworthy Autonomous System (TAS)](), CMS, University of Leicester
+        - [Trustworthy Autonomous System (TAS)](https://le.ac.uk/computing-and-mathematical-sciences/research/groups/trustworthy-autonomous-systems), CMS, University of Leicester
         - [DriverLeics Team](https://driverleics.github.io/), CMS, University of Leicester
         <!-- - [Dynamics, Astronautics & Next-gen Intelligence Lab (D.A.N.i.Lab)]() -->
 <br>
