@@ -12,9 +12,12 @@ Here is **Mingshuo Xu / 许明烁**, or you can call me Shawn. Current I am a Ph
 
 ## Research Interests
 
+- Bio-inspired intelligence
+- Motion pattern recognition
 - Neuromorphic computation
-- Bio-inspired and bio-plausible neural systems
 - Insect-sized robot
+- Mathematical foundations of artificial intelligence (AI)
+- Reinforcement learning
 
 ---
 
@@ -46,7 +49,7 @@ Here is **Mingshuo Xu / 许明烁**, or you can call me Shawn. Current I am a Ph
 
 ## Skills & Interests
 - Technical Skills: Microsoft Office, Proficient in Python, Proficient in MATLAB, C, C++, Visio, Git, PS
-- Languages: English, Chinese
+- Languages: Chinese, English
 - Interests: Badminton, Swimming, Guitar, Cooking
 
 <br>
