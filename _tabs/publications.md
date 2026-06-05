@@ -31,10 +31,10 @@ order: 4
   - Paper HomePage: [MITE-Net-HomePage](https://mingshuoxu.github.io/MITE-Net-HomePage/)
   - GitHub Repository: [MITE-Net](https://github.com/MingshuoXu/MITE-Net)
 
-- [Insect-inspired Spiking Neural Network with Minkowski Chain Dendritic Summation for Event-driven Small Target Motion Detection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6772072)
+<!-- - [Insect-inspired Spiking Neural Network with Minkowski Chain Dendritic Summation for Event-driven Small Target Motion Detection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6772072)
 <br>Hao Chen, Yi Zheng, **Mingshuo Xu**, Guangrong Wu, Jigen Peng, and Zheng-an Yao\* (2026).
 <br>Available at SSRN: https://ssrn.com/abstract=6772072 or http://dx.doi.org/10.2139/ssrn.6772072
-  - Under review.
+  - Under review. -->
 
 - [vSTMD: Visual Motion Detection for Extremely Tiny Target at Various Velocities.](https://arxiv.org/abs/2501.13054)
 <br>**Mingshuo Xu**†, Hao Luan†, Zhou Daniel Hao, Jigen Peng, and Shigang Yue\* (2025).
